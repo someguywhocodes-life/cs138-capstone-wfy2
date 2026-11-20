@@ -12,8 +12,19 @@ documaenatation
 https://docs.python.org/3/library/heapq.html#heapq.heapify_max
 https://docs.python.org/3/library/enum.html
 
-ai asistant
+ai assistants
 
+
+LLM 1: ChatGPT
+Purpose: Debugging KD Tree Code
 https://chatgpt.com/share/6afdb649-4980-83e8-9203-84411ae23b1d - final debug
+
+LLM 2: ChatGPT
+Purpose: Checking KD Tree Balance and Rebuild Mechanics
 https://chatgpt.com/share/6afdb65f-ff1c-83ee-82a1-205de6839e80 - second wave of debug
+
+LLM 3: ChatGPT
+Purpose: Checking KD Tree Balance and Rebuild Mechanics
 https://chatgpt.com/share/6afdb672-0e90-83e8-846d-920cf188d9af - first wave of debug
+
+All have a pdf folder
